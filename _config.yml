@@ -1,0 +1,43 @@
+# Site settings
+title: Alexandra da Silva Pereira
+description: 'I like programming a lot, fixing bugs, learning new technologies, real world problems and solving them, development and real world software engineering. My best motivation is using technology to produce helpful and useful products and services.'
+url: 'https://alexandrasp.github.io'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Alexandra da Silva '
+  email: alesilva241@gmail.com  
+  twitter_username: alex_andrasp
+  #facebook_username: joshgerdes
+  github_username:  alexandrasp
+  linkedin_username:  alexandra-silva-57966139
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

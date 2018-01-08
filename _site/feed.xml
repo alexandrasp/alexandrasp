@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra da Silva Pereira</title>
+    <description>I like programming a lot, fixing bugs, learning new technologies, real world problems and solving them, development and real world software engineering. My best motivation is using technology to produce helpful and useful products and services.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 07 Jan 2018 23:57:41 -0200</pubDate>
+    <lastBuildDate>Sun, 07 Jan 2018 23:57:41 -0200</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Hello world and why I am here :)</title>
+        <description>&lt;h3 id=&quot;hello-folks-&quot;&gt;Hello Folks !&lt;/h3&gt;
+
+&lt;p&gt;Some years ago a friend sent to me a reference about a program called &lt;a href=&quot;https://www.outreachy.org/&quot;&gt;&lt;em&gt;Outreachy&lt;/em&gt;&lt;/a&gt;. My friend is a software developer and received an e-mail from his university with a case of a student that had participated of this program and she`s spreading informations related with the program for everyone in university and for other people that can access the e-mail.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.outreachy.org/&quot;&gt;&lt;em&gt;Outreachy&lt;/em&gt;&lt;/a&gt; program encourages minority participation in &lt;em&gt;Open source&lt;/em&gt; contributions, in areas related with code and technology, design and documentation. I strongly recommend the participation in program, it can be a really awesome experience, and for sure will give you a new way to see how this genius world of &lt;em&gt;open source&lt;/em&gt; and software development in large scale projects or services works.&lt;/p&gt;
+
+&lt;p&gt;So, I decided to participate of the program, but by the glory of impostor syndrome this idea didn’t flow, I always left my application for last week and for last few days and I didn’t keep the engagement with the project specially because I couldn’t believe that was possible for me.&lt;/p&gt;
+
+&lt;p&gt;However in 2016..and it continues in 2017 I decided to do contributions in &lt;strong&gt;Mozilla&lt;/strong&gt;, I kept in touch with communities of some projects, I knew really cool people and decided seriously apply again for the &lt;a href=&quot;https://www.outreachy.org/&quot;&gt;&lt;em&gt;Outreachy&lt;/em&gt;&lt;/a&gt; in 2017,  more specifically, I applyed in 2017 winter. &lt;strong&gt;AND THAT WAS MY TIME, I GOT THIS :DD ** and one of the purposes of this blog is to talk about my experience, so basically I am here for this. Eventually I will put here some text related with my work during the internship, something about technology, why yes…and why I really **love&lt;/strong&gt; tech. :)&lt;/p&gt;
+
+&lt;p&gt;My choice was &lt;a href=&quot;https://github.com/taskcluster/json-e&quot;&gt;json-e&lt;/a&gt; project, that is a data-structure parameterization system written for embedding context in JSON objects. Nowadays this part of the project has implementations in JS, Python and a new implementation in Golang is being done. All contributions for the project are welcome, if you have any interest, you can access the repository link presented above.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It is important say that json-e is part of a immense and genial project, a continuous integration platform called &lt;a href=&quot;https://docs.taskcluster.net/&quot;&gt;taskcluster&lt;/a&gt;, composed by a huge number of microservices and components, the official repository of the project can be access &lt;a href=&quot;https://github.com/taskcluster&quot;&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;my-application-and-my-first-pr&quot;&gt;My application and my first PR&lt;/h3&gt;
+
+&lt;p&gt;I always thought that Outreachy requirements are so simple and  &lt;strong&gt;they are&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You only need be part of any minority in tech and do a contribution for the project that you’re interested.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are some dozens of organizations and foundations of open source that semestrally participate in of the program (e.g. Mozilla, Debian, Open Stack, Fedora..and more). Each of them show their projects for &lt;a href=&quot;https://www.outreachy.org/&quot;&gt;&lt;em&gt;Outreachy&lt;/em&gt;&lt;/a&gt;, and each of the projects has a mentor. The mentor is the first person that you will talk about the project, he will help with the start (“stepping stones”) configuring tools, with explanations of the technologies used in the project…and anything else that you have doubts related with the project. Probably the mentor is the most important person in all process and is interesting have engagemeny in the project and keep in touch with mentor during all period of application and for sure during the internship time.&lt;/p&gt;
+
+&lt;p&gt;At this time I was really excited with the project and I did 3/4 PRs during application period. :DDDD&lt;/p&gt;
+
+&lt;p&gt;Together with my mentor we choose the best steps to start, which was the best first bug, specially because I did’t know the code and almost don’t know for what that code was used. I confess…this made me a mixture of anxious and nervous, it’s completely normal, after all…it’s a new thing. :)&lt;/p&gt;
+
+&lt;p&gt;After I’ve done my application…I continued to keep in touch with my mentor and I got a large bug…until today we haven’t fixed this completely, but I am also working in code related with the intership project.&lt;/p&gt;
+
+&lt;p&gt;Oh, my internship project is a microservice that is part of &lt;em&gt;taskcluster&lt;/em&gt; environment and is called &lt;em&gt;&lt;a href=&quot;https://github.com/taskcluster/taskcluster-hooks&quot;&gt;Hooks&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;p.s. I am not fluent in English (as you can see :P), but…this posts will help improve too, I hope.&lt;/p&gt;
+
+&lt;p&gt;p.s.2 If you have any doubt about &lt;em&gt;Outreachy&lt;/em&gt; or Mozilla contributions feel free to send me an e-mail. :)&lt;/p&gt;
+
+&lt;h3 id=&quot;related-links&quot;&gt;Related links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[My first PR][https://github.com/taskcluster/json-e/pull/177]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;————————————-Portuguese version————————————-&lt;/p&gt;
+
+&lt;h3 id=&quot;hello&quot;&gt;Hello!&lt;/h3&gt;
+
+&lt;p&gt;Há alguns anos um amigo me enviou uma referência de um programa chamado &lt;a href=&quot;https://www.outreachy.org/&quot;&gt;&lt;em&gt;Outreachy&lt;/em&gt;&lt;/a&gt;. Meu amigo é desenvolvedor e recebeu um e-mail da sua univerdade com relatos de uma aluna que havia participado desse programa e que estava divulgado para todo pessoal da universidade e demais pessoas que pudessem ter acesso ao e-mail.&lt;/p&gt;
+
+&lt;p&gt;Esse programa estimula a participação de minorias em contribuições &lt;em&gt;Open source&lt;/em&gt;, seja em áreas relacionadas a código e tecnologia, &lt;em&gt;design&lt;/em&gt; e documentação. Recomendo fortemente a participação no programa, pode ser uma experiência super rica e que com certeza te dará uma nova visão do que é esse mundo genial do &lt;em&gt;open source&lt;/em&gt; e de desenvolvimento de grandes plataformas ou serviços.&lt;/p&gt;
+
+&lt;p&gt;Pois é…eis que decidi partipar do programa, mas graças a síndrome do impostor essa ideia não caminhou muito, eu sempre deixei minhas contribuições para última hora e não me mantinha muito engajada com o projeto, por não acreditar que conseguiria algo.&lt;/p&gt;
+
+&lt;p&gt;No entanto em 2016..e isso só continuou em 2017 eu resolvi fazer contribuições na &lt;strong&gt;Mozilla&lt;/strong&gt;, tive contato com alguns projetos, conheci pessoas super legais e acabei por decidir aplicar novamente pro &lt;em&gt;&lt;a href=&quot;https://www.outreachy.org/&quot;&gt;*Outreachy*&lt;/a&gt;&lt;/em&gt; em 2017, mais especificamente para o inverno de 2017. :) Dessa vez eu consegui :D e um dos própositos desse blog é fazer relatos da minha participação no programa, então basicamente estou aqui para isso! Eventualmente falarei de código relacionado ao meu trabalho e de tecnologias, por que sim…e porque eu amo tecnologia :).&lt;/p&gt;
+
+&lt;p&gt;O projeto que eu escolhi foi o &lt;a href=&quot;https://github.com/taskcluster/json-e&quot;&gt;json-e&lt;/a&gt;, que é um sistema para parametrização de estruturas de dados em contextos que envolvem objetos JSON. Hoje a plataforma possui implementações em JS, Python e está sendo desenvolvido um &lt;em&gt;port&lt;/em&gt; em Golang. Toda contribuição no projeto é bem vinda, se tiver interesse entra no repositório do projeto linkado acima. o/&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vale dizer que o json-e é parte de um projeto imenso e genial, uma plataforma de integração contínua chamada &lt;a href=&quot;https://docs.taskcluster.net/&quot;&gt;taskcluster&lt;/a&gt; com milhares de microserviços e componentes, o repositório de todo o projeto está no github e pode ser acessado &lt;a href=&quot;https://github.com/taskcluster&quot;&gt;aqui&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aplicação-e-meu-primeiro-pr&quot;&gt;Aplicação e meu primeiro PR&lt;/h3&gt;
+
+&lt;p&gt;Eu sempre achei que eram bem simples os requisitos do programa e &lt;strong&gt;eles são&lt;/strong&gt; :).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Você só precisa fazer parte de alguma minoria em tecnologia e fazer alguma contribuição para o projeto do qual está interessado.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Existem algumas dezenas de organizações e fundações de &lt;em&gt;open source&lt;/em&gt; que participam semestralmente do programa (e.g. Mozilla, Debian, Open Stack, Fedora… e muitas outras). Cada uma das fundações apresenta seus projetos ao &lt;a href=&quot;https://www.outreachy.org/&quot;&gt;&lt;em&gt;Outreachy&lt;/em&gt;&lt;/a&gt;, e cada um dos projetos possui um mentor, que é a primeira pessoa (provavelmente) que você fará contato, ele te ajudará com o caminho das pedras (configurações, ferramentas, tecnologias que envolvem o projeto..e no que mais você tiver de dúvida sobre o projeto). O mentor é uma figura extremamente importante em todo processo, e é interessante se manter engajado no projeto e em contato com o mentor durante todo o período, desde a aplicação até o período que envolve o estágio.&lt;/p&gt;
+
+&lt;p&gt;Dessa vez eu me empolguei e fiz uns 3/4 PRs durante o período de aplicação. :DDDD&lt;/p&gt;
+
+&lt;p&gt;Junto com meu mentor fomos escolhendo o que fazer, qual seria o primeiro bug ideal, afinal de contas eu não conhecia o código e pouco sabia sobre para o que ele era utilizado. Isso dá um misto de ansiedade e nervoso no inicio, o que é normal, afinal de contas…é algo novo. :)&lt;/p&gt;
+
+&lt;p&gt;Feita a aplicação…eu continuei em contato com meu mentor e peguei um bug enorme…até hoje não terminamos ele, mas já estou trabalhando em coisas que envolvem meu projeto de estágio também.&lt;/p&gt;
+
+&lt;p&gt;Ah, meu projeto de estágio é um microserviço que faz parte do ecossistema do &lt;em&gt;taskcluster&lt;/em&gt; e se chama &lt;a href=&quot;https://github.com/taskcluster/taskcluster-hooks&quot;&gt;&lt;em&gt;Hooks&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;outros-links-relacionados&quot;&gt;Outros links relacionados&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[Meu primeiro PR][https://github.com/taskcluster/json-e/pull/177]&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 26 Dec 2017 00:00:00 -0200</pubDate>
+        <link>http://localhost:4000/2017/outreachy1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/outreachy1/</guid>
+        
+        <category>News</category>
+        
+        <category>Blog</category>
+        
+        <category>FirstPost</category>
+        
+        <category>Outreachy</category>
+        
+        <category>Mozilla</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
